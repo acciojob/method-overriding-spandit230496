@@ -18,6 +18,6 @@ public class Main {
         B b= new B();
         b.meth();
         B b1= new B();
-        System.out.print(b1.meth());
+        b1.meth();
     }
 }
